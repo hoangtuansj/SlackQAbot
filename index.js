@@ -10,7 +10,7 @@ const KEYWORD_JOBS = ' jobs';
 const KEYWORD_HELP = ' help';
 
 const bot = new SlackBot({
-    token: 'xoxb-15710008371-777026408800-agxKv2sUm7RBfqSEbrRfAWTW',
+    token: 'xoxb-15710008371-777026408800-CtbBH58ODppYFRHusogUdUkj',
     name: 'qabot'
 })
 
