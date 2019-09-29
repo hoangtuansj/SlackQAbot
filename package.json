@@ -1,0 +1,15 @@
+{
+  "name": "slackqabot",
+  "version": "1.0.0",
+  "description": "slack bot that provide knowledge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "TonyH",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "slackbots": "^1.2.0"
+  }
+}
